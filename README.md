@@ -15,5 +15,5 @@
 
 - 📫 How to reach me:📧:nishabhati137@gmail.com 
 - 😄 Pronouns: Her:)
-- ⚡ Fun fact: Started as a PHYSICS Educator now a frontend developer🚀
+- ⚡ Fun fact: Started As A PHYSICS Educator Now A Frontend Developer🚀
 -->
