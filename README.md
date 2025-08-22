@@ -11,10 +11,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishabhatii&theme=radical)
 ## 🚀 My Projects
 
-![School ERP](https://github-readme-stats.vercel.app/api/pin/?username=Nishabhatii&repo=forgeUI&theme=radical&title_color=fff&text_color=fff&bg_color=0d1117)
+![School ERP](https://github-readme-stats.vercel.app/api/pin/?username=Nishabhatii&repo=school-erpI&theme=radical&title_color=fff&text_color=fff&bg_color=0d1117)
 **🏫 School ERP** – Manage students, teachers, attendance, and school operations efficiently.
 
-![Science Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=Nishabhatii&repo=science-quiz-app&theme=radical&title_color=fff&text_color=fff&bg_color=0d1117)
+![Science Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=Nishabhatii&repo=Science-Quiz&theme=radical&title_color=fff&text_color=fff&bg_color=0d1117)
 **🧪 Science Quiz App** – Interactive platform to test and improve science knowledge for students.
 
 ![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Nishabhatii&repo=portfolio&theme=radical&title_color=fff&text_color=fff&bg_color=0d1117)
