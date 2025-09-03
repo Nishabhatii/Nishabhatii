@@ -7,9 +7,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=nishabhatii&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishabhatii&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nishabhatii&theme=radical&hide_border=true)
 
