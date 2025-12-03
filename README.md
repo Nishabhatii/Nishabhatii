@@ -19,7 +19,7 @@
 
 
 
-- 📫 How to reach me:📧:nishabhati137@gmail.com 
+- 📫 How to reach me:📧:nishabhati.in@gmail.com 
 - 😄 Pronouns: Her:)
-- ⚡ Fun fact: Started As A PHYSICS Educator Now A Frontend Developer🚀
+
 -->
