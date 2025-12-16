@@ -1,6 +1,4 @@
-experiences
-🚀 About Me
-I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions that work, perform, and scale.
+
 
 
 
