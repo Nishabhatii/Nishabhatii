@@ -1,3 +1,9 @@
+experiences
+🚀 About Me
+I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions that work, perform, and scale.
+
+
+
 
 ### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
