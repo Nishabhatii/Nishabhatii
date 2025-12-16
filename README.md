@@ -21,7 +21,6 @@ I'm a passionate Web Developer building fast, scalable, and modern digital produ
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nishabhatii&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishabhatii&layout=compact&theme=radical)
 
 
 🌟 **What I Do**
@@ -38,7 +37,7 @@ I'm a passionate Web Developer building fast, scalable, and modern digital produ
 
 
 📫 **Let’s Connect**  
-[📧 Email Me](mailto:nishabhati.in@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/nishabhatii/)
+                            [📧 Email Me](mailto:nishabhati.in@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/nishabhatii/)
 
 ---
 
