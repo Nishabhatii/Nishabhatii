@@ -45,7 +45,6 @@ I'm a passionate Web Developer building fast, scalable, and modern digital produ
 
 
 
-- 📫 How to reach me:📧:nishabhati.in@gmail.com 
+
 - 😄 Pronouns: Her:)
 
--->
