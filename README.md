@@ -24,6 +24,25 @@ I'm a passionate Web Developer building fast, scalable, and modern digital produ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishabhatii&layout=compact&theme=radical)
 
 
+🌟 **What I Do**
+- Create responsive, mobile-first websites & apps
+- Build APIs & backend systems
+- Integrate smooth animations & motion
+- Optimize for performance & scalability
+
+  
+📊 **Most Used Languages**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
+</p>
+
+
+📫 **Let’s Connect**  
+[📧 Email Me](mailto:nishabhati.in@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/nishabhatii/)
+
+---
+
+⚡ _“Code is like magic — if you know the spell, you can build anything.”_
 
 
 
