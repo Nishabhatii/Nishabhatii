@@ -37,7 +37,7 @@ I'm a passionate Frontend Developer building fast, scalable, and modern digital 
 
 
 📫 **Let’s Connect**  
-                            [📧 Email Me](mailto:nishabhati.in@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/nishabhatii/)
+                            [📧 Email Me](mailto:nishabhati.in@gmail.com)   • [💼 LinkedIn](https://www.linkedin.com/in/nishabhatii/)
 
 ---
 
