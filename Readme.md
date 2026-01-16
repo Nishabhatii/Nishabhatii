@@ -18,7 +18,7 @@ I'm a passionate Frontend Developer building fast, scalable, and modern digital 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-###📊 GitHub Stats
+### 📊 GitHub Stats
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nishabhatii&theme=radical&hide_border=true)
