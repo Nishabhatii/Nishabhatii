@@ -26,7 +26,7 @@ I'm a passionate Frontend Developer building fast, scalable, and modern digital 
 
 
 🌟 **What I Do**
-- Create responsive , mobile-first websites & apps
+- Create responsive, mobile-first websites & apps
 - Build APIs & backend systems
 - Integrate smooth animations & motion
 - Optimize for performance & scalability
