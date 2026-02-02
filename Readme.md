@@ -1,4 +1,4 @@
-I'm a passionate Frontend Developer building fast, scalable, and modern digital products. From clean, intuitive frontends to robust backends, I create end-to-end solutions that perform, scale,and deliver real values
+I'm a passionate Frontend Developer building fast, scalable, and modern digital products. From clean, intuitive  frontends to robust backends, I create end-to-end solutions that perform, scale,and deliver real values
 <p align="center">
      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
 </p>
